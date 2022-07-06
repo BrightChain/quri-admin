@@ -1,0 +1,3 @@
+[submodule "src/quri"]
+	path = src/quri
+	url = https://github.com/BrightChain/quri.git
